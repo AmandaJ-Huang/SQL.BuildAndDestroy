@@ -1,1 +1,1 @@
-SELECT City FROM Students WHERE City <> 'Philadelphia';
+SELECT * FROM Students WHERE City <> 'Philadelphia';
